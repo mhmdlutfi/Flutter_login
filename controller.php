@@ -5,6 +5,6 @@
     <title>Document</title>
 </head>
 <body>
-    
+    <textarea name="fitur 1" id="" cols="30" rows="10"></textarea>
 </body>
 </html>
